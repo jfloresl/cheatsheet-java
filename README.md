@@ -1,10 +1,7 @@
-\### Project status
+\### pendientes
 
-- [x] Design
-- [x] Mockups
-- [x] Development
-- [x] Unit testing
-- [ ] QA
-- [ ] Stage
-- [ ] Beta Testing
-- [ ] Production
+- [x] soap service
+- [x] rest service
+- [x] crud to database
+- [x] bean
+- [ ] vo
